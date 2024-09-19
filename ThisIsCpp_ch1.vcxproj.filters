@@ -39,7 +39,10 @@
     <ClCompile Include="008_RangeBasedfor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="009_Exercise_01.cpp">
+    <ClCompile Include="Exercise_01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_02.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
