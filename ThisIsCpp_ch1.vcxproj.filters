@@ -18,5 +18,8 @@
     <ClCompile Include="001_AutoSample.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="002_NewDeleteSample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
